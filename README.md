@@ -57,8 +57,13 @@ I am a passionate **Software Engineer** focused on building scalable web applica
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bleiwis&show_icons=true&theme=tokyonight&count_private=true" alt="Bleiwis's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bleiwis&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bleiwis&theme=tokyonight" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bleiwis&theme=tokyonight" alt="Activity Graph" />
 </div>
 
 <br/>
