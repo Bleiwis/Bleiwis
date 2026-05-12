@@ -23,6 +23,9 @@ I am a passionate **Software Engineer** focused on building scalable web applica
 - ⚙️ **Integration Expert**: Specialized in connecting modern web ecosystems with legacy and enterprise platforms like **SAP** and **SGC**.
 - 🚀 **High Concurrency & Scaling**: Experienced in architecting **Microservices** and optimizing **SQL queries** for high-performance systems handling massive concurrency.
 - ☁️ **Cloud Native**: Proficient in **AWS** (EC2, S3, Lambda, SQS) to build scalable, distributed architectures.
+- 🛡️ **Security First**: Senior-level expertise in identifying and mitigating vulnerabilities based on **OWASP Top 10** standards to ensure production-grade security.
+- 🧪 **Quality Assurance**: Proficient in **Unit, Integration, and E2E testing** to maintain high code reliability.
+- 📈 **Performance & Resilience**: Experienced in **Stress Testing** using **Artillery** to ensure system stability under extreme loads.
 - 🌱 I’m currently learning more about Large Language Model optimization and distributed systems.
 - 💬 Ask me about **TypeScript, Go, Spring Boot, or Distributed Systems**.
 - ⚡ Fun fact: I love bridging the gap between complex enterprise data and intuitive user experiences.
@@ -32,7 +35,7 @@ I am a passionate **Software Engineer** focused on building scalable web applica
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,js,go,java,spring,python,nextjs,react,nodejs,nestjs,express,postgres,sqlite,mongodb,docker,aws,git,githubactions,playwright" />
+  <img src="https://skillicons.dev/icons?i=typescript,js,go,java,spring,python,nextjs,react,nodejs,nestjs,express,postgres,sqlite,mongodb,docker,aws,git,githubactions,playwright,vitest" />
 </p>
 
 #### 💻 Frontend
@@ -46,11 +49,13 @@ I am a passionate **Software Engineer** focused on building scalable web applica
 <p align="left">
   <img src="https://img.shields.io/badge/SAP-008FD3?style=flat-square&logo=sap&logoColor=white" alt="SAP" />
   <img src="https://img.shields.io/badge/SGC-005C97?style=flat-square&logo=data-integration&logoColor=white" alt="SGC" />
+  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
+  <img src="https://img.shields.io/badge/Artillery-FF6B6B?style=flat-square&logo=artillery&logoColor=white" alt="Artillery" />
 </p>
 
-#### 🛠️ DevOps & Tools
+#### 🛠️ DevOps, Security & Testing
 
-`AWS (EC2, S3, Lambda, SQS)` `Microservices Architecture` `Docker` `GitHub Actions` `Playwright` `Vercel`
+`AWS (EC2, S3, Lambda, SQS)` `Microservices Architecture` `Docker` `GitHub Actions` `Playwright` `Vitest` `Artillery (Stress Testing)` `OWASP Top 10 Mitigation` `Vercel`
 
 ---
 
