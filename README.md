@@ -35,7 +35,7 @@ I am a passionate **Software Engineer** focused on building scalable web applica
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,js,go,java,spring,python,nextjs,react,nodejs,nestjs,express,postgres,sqlite,mongodb,docker,aws,git,githubactions,playwright,vitest" />
+  <img src="https://skillicons.dev/icons?i=typescript,js,go,java,spring,python,nextjs,react,nodejs,nestjs,express,postgres,sqlite,mongodb,docker,aws,git,githubactions,electron,vitest" />
 </p>
 
 #### 💻 Frontend
