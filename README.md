@@ -32,30 +32,41 @@ I am a passionate **Software Engineer** focused on building scalable web applica
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Expertise
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,js,go,java,spring,python,nextjs,react,nodejs,nestjs,express,postgres,sqlite,mongodb,docker,aws,git,githubactions,electron,vitest" />
+#### 💻 Frontend & Desktop
+`Next.js` `React` `Tailwind CSS` `TypeScript` `Electron`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,typescript,electron" />
 </p>
 
-#### 💻 Frontend
+#### ⚙️ Backend, AI & RAG
+`Go` `Java` `Spring Boot` `NestJS` `Python` `Node.js`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,java,spring,nestjs,python,nodejs" />
+</p>
 
-`Next.js` `React` `Tailwind CSS` `TypeScript`
-
-#### ⚙️ Backend & Data
-
-`Go` `Java` `Spring Boot` `NestJS` `Node.js` `Python (AI/RAG)` `SQL (Postgres/SQLite)` `Prisma/Drizzle`
-
+#### 🔗 Integration & Databases
+`SAP` `SGC` `PostgreSQL` `SQLite` `Prisma` `Drizzle` `MongoDB`
 <p align="left">
   <img src="https://img.shields.io/badge/SAP-008FD3?style=flat-square&logo=sap&logoColor=white" alt="SAP" />
   <img src="https://img.shields.io/badge/SGC-005C97?style=flat-square&logo=data-integration&logoColor=white" alt="SGC" />
-  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
-  <img src="https://img.shields.io/badge/Artillery-FF6B6B?style=flat-square&logo=artillery&logoColor=white" alt="Artillery" />
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,prisma,mongodb" />
 </p>
 
-#### 🛠️ DevOps, Security & Testing
+#### 🛡️ Quality, Security & Performance
+`OWASP Top 10 Mitigation` `Artillery (Stress Testing)` `Vitest` `Unit/Integration Testing`
+<p align="left">
+  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
+  <img src="https://img.shields.io/badge/Artillery-FF6B6B?style=flat-square&logo=artillery&logoColor=white" alt="Artillery" />
+  <img src="https://skillicons.dev/icons?i=vitest" />
+</p>
 
-`AWS (EC2, S3, Lambda, SQS)` `Microservices Architecture` `Docker` `GitHub Actions` `Playwright` `Vitest` `Artillery (Stress Testing)` `OWASP Top 10 Mitigation` `Vercel`
+#### ☁️ Infrastructure & DevOps
+`AWS (EC2, S3, Lambda, SQS)` `Docker` `GitHub Actions` `Vercel`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel" />
+</p>
 
 ---
 
