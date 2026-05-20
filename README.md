@@ -106,6 +106,13 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 
 ---
 
+### 📊 WakaTime Weekly Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
