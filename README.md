@@ -32,53 +32,77 @@ I am a passionate **Software Engineer** focused on building scalable web applica
 
 ---
 
+### 🗺️ Roadmap & Aprendizaje Continuo
+
+Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emergentes. Así se ve mi plan de ruta actual:
+
+```text
+🚀 En Progreso (Q2 2026)
+├─► Agentes de IA autónomos (LangChain/LlamaIndex) ── [████████████████░░░░] 80%
+└─► Optimización y orquestación de RAG avanzado ───── [██████████████░░░░░░] 70%
+
+🎯 Próximos Pasos (Q3 2026)
+├─► Ajuste fino de LLMs (Fine-tuning & Quantization) ─ [██████░░░░░░░░░░░░░░] 30%
+└─► Sistemas Distribuidos con gRPC y Go ───────────── [████████░░░░░░░░░░░░] 40%
+
+🧪 Investigación y Exploración (Q4 2026)
+├─► Modelos Locales en Edge/Electron ────────────── [████░░░░░░░░░░░░░░░░] 20%
+└─► Stress testing de alta concurrencia con K6/Artillery ── [██████████░░░░░░░░░░] 50%
+```
+
+---
+
 ### 🛠️ Tech Stack & Expertise
 
-#### 💻 Frontend & Desktop
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
-</p>
-
-#### ⚙️ Backend, AI & RAG
-<p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-</p>
-
-#### 🔗 Integration & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/SAP-008FD3?style=flat-square&logo=sap&logoColor=white" alt="SAP" />
-  <img src="https://img.shields.io/badge/SGC-005C97?style=flat-square&logo=data-integration&logoColor=white" alt="SGC" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-#### 🛡️ Quality, Security & Performance
-<p align="left">
-  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
-  <img src="https://img.shields.io/badge/Artillery-FF6B6B?style=flat-square&logo=artillery&logoColor=white" alt="Artillery" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
-  <img src="https://img.shields.io/badge/Testing-3178C6?style=flat-square&logo=testinglibrary&logoColor=white" alt="Testing" />
-</p>
-
-#### ☁️ Infrastructure & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Frontend & Desktop</h4>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend, AI & RAG</h4>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring" />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔗 Integración y Bases de Datos</h4>
+      <img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white" alt="SAP" />
+      <img src="https://img.shields.io/badge/SGC-005C97?style=for-the-badge&logo=data-integration&logoColor=white" alt="SGC" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+      <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛡️ Calidad, Seguridad y Rendimiento</h4>
+      <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+      <img src="https://img.shields.io/badge/Artillery-FF6B6B?style=for-the-badge&logo=artillery&logoColor=white" alt="Artillery" />
+      <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
+      <img src="https://img.shields.io/badge/Testing-3178C6?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Testing" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>☁️ Infraestructura y DevOps</h4>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+    </td>
+  </tr>
+</table>
 
 ---
 
