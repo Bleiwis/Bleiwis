@@ -109,6 +109,8 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 ### 📊 WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C110%20hrs%2038%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -163,7 +165,7 @@ sql                      6 mins              ███████████�
 ```
 
 
- Last Updated on 22/05/2026 00:45:16 UTC
+ Last Updated on 22/05/2026 03:52:37 UTC
 <!--END_SECTION:waka-->
 
 ---
