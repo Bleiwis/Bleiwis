@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Bleiwis/Bleiwis/main/github_banner_leiwis.png" width="100%" alt="Leiwis Bernal Banner" />
+  <!-- <img src="https://raw.githubusercontent.com/Bleiwis/Bleiwis/main/github_banner_leiwis.png" width="100%" alt="Leiwis Bernal Banner" /> -->
   
   <h1>Hi there! I'm Leiwis Bernal 👋</h1>
   
