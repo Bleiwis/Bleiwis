@@ -109,9 +109,7 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 ### 📊 WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C108%20hrs%2031%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -152,17 +150,20 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     8 mins              ██████████████░░░░░░░░░░░   55.13 % 
+CSV                      5 mins              █████████░░░░░░░░░░░░░░░░   34.83 % 
+JavaScript               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  15 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+github-profile           8 mins              ██████████████░░░░░░░░░░░   55.13 % 
+sql                      6 mins              ███████████░░░░░░░░░░░░░░   44.87 % 
 ```
 
 
- Last Updated on 21/05/2026 03:56:20 UTC
+ Last Updated on 22/05/2026 00:45:16 UTC
 <!--END_SECTION:waka-->
 
 ---
