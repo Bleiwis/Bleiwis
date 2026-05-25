@@ -109,6 +109,8 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 ### 📊 WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C110%20hrs%2042%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -123,8 +125,52 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
  > 
 > 🔑 35 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 24/05/2026 03:48:38 UTC
+```text
+🌞 Morning                52 commits          ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+🌆 Daytime                117 commits         ██████████████░░░░░░░░░░░   55.19 % 
+🌃 Evening                40 commits          █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   55 commits          ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
+Tuesday                  28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Wednesday                39 commits          █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Thursday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Friday                   37 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Saturday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Sunday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Caracas
+
+💬 Programming Languages: 
+TypeScript               1 hr 19 mins        ███████████████░░░░░░░░░░   58.54 % 
+CSV                      29 mins             █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
+Bash                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+YAML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 16 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+bosar-mf-container       47 mins             █████████░░░░░░░░░░░░░░░░   35.08 % 
+bosar-abm-articulos-batch43 mins             ████████░░░░░░░░░░░░░░░░░   32.29 % 
+sql                      23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+github-profile           10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+db                       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+```
+
+
+ Last Updated on 25/05/2026 04:01:28 UTC
 <!--END_SECTION:waka-->
 
 ---
