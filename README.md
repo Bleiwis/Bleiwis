@@ -152,26 +152,17 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               1 hr 19 mins        █████████████████░░░░░░░░   66.11 % 
-CSV                      23 mins             █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
-Bash                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 49 mins        ███████████████████████░░   91.12 % 
-Antigravityide           10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-bosar-mf-container       47 mins             ██████████░░░░░░░░░░░░░░░   39.62 % 
-bosar-abm-articulos-batch43 mins             █████████░░░░░░░░░░░░░░░░   36.46 % 
-sql                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-db                       7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-results                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/05/2026 03:36:21 UTC
+ Last Updated on 31/05/2026 04:02:42 UTC
 <!--END_SECTION:waka-->
 
 ---
