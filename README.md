@@ -109,11 +109,13 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 ### 📊 WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C110%20hrs%2042%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 181.6 kB Used in GitHub's Storage 
+> 📦 181.7 kB Used in GitHub's Storage 
  > 
 > 🏆 63 Contributions in the Year 2026
  > 
@@ -123,8 +125,44 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
  > 
 > 🔑 35 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 07/06/2026 04:07:20 UTC
+```text
+🌞 Morning                50 commits          ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
+🌆 Daytime                116 commits         ██████████████░░░░░░░░░░░   55.50 % 
+🌃 Evening                40 commits          █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   54 commits          ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
+Tuesday                  27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Wednesday                39 commits          █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+Thursday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Friday                   37 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Saturday                 15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Sunday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Caracas
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 08/06/2026 04:11:56 UTC
 <!--END_SECTION:waka-->
 
 ---
