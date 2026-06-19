@@ -109,7 +109,7 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 ### 📊 WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C110%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C112%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -152,17 +152,26 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    39 mins             █████████░░░░░░░░░░░░░░░░   37.10 % 
+TypeScript               37 mins             █████████░░░░░░░░░░░░░░░░   35.14 % 
+HTML                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Bash                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 1 min          ██████████████░░░░░░░░░░░   58.00 % 
+Antigravityide           44 mins             ██████████░░░░░░░░░░░░░░░   42.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+bosar-mf-container       45 mins             ███████████░░░░░░░░░░░░░░   42.70 % 
+go-py-react-bot          40 mins             ██████████░░░░░░░░░░░░░░░   38.36 % 
+bosar-abm-articulos-batch15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+call_GBxHrIjv53KmXQc8tOb80 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
- Last Updated on 18/06/2026 04:10:15 UTC
+ Last Updated on 19/06/2026 04:28:07 UTC
 <!--END_SECTION:waka-->
 
 ---
