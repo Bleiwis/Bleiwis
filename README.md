@@ -109,19 +109,17 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 ### 📊 WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C112%20hrs%2028%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 185.0 kB Used in GitHub's Storage 
+> 📦 280.3 kB Used in GitHub's Storage 
  > 
-> 🏆 63 Contributions in the Year 2026
+> 🏆 64 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 25 Public Repositories 
  > 
 > 🔑 35 Private Repositories 
  > 
@@ -152,26 +150,25 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-Other                    39 mins             █████████░░░░░░░░░░░░░░░░   37.10 % 
-TypeScript               37 mins             █████████░░░░░░░░░░░░░░░░   35.14 % 
-HTML                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Bash                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+TypeScript               1 hr 26 mins        ████████████░░░░░░░░░░░░░   49.17 % 
+Bash                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+JavaScript               23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+SCSS                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 
 🔥 Editors: 
-VS Code                  1 hr 1 min          ██████████████░░░░░░░░░░░   58.00 % 
-Antigravityide           44 mins             ██████████░░░░░░░░░░░░░░░   42.00 % 
+Antigravity IDE          2 hrs 56 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bosar-mf-container       45 mins             ███████████░░░░░░░░░░░░░░   42.70 % 
-go-py-react-bot          40 mins             ██████████░░░░░░░░░░░░░░░   38.36 % 
-bosar-abm-articulos-batch15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-call_GBxHrIjv53KmXQc8tOb80 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+bosar-articulos-api      1 hr 36 mins        ██████████████░░░░░░░░░░░   54.81 % 
+portal-nn-app            31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+docs                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+bosar-excel-generator    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+nautilus_trader          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 ```
 
 
- Last Updated on 19/06/2026 04:28:07 UTC
+ Last Updated on 22/07/2026 18:04:05 UTC
 <!--END_SECTION:waka-->
 
 ---
