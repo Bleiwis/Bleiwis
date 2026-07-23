@@ -109,6 +109,8 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 ### 📊 WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C149%20hrs%2042%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -117,7 +119,7 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
  > 
 > 🏆 64 Contributions in the Year 2026
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 25 Public Repositories 
  > 
@@ -168,7 +170,7 @@ nautilus_trader          7 mins              █░░░░░░░░░░�
 ```
 
 
- Last Updated on 22/07/2026 18:04:05 UTC
+ Last Updated on 23/07/2026 02:52:10 UTC
 <!--END_SECTION:waka-->
 
 ---
