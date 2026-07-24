@@ -109,9 +109,7 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 ### 📊 WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C149%20hrs%2042%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -152,25 +150,25 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               1 hr 26 mins        ████████████░░░░░░░░░░░░░   49.17 % 
-Bash                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-JavaScript               23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-SCSS                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+TypeScript               4 hrs 2 mins        ████████████░░░░░░░░░░░░░   49.85 % 
+Bash                     1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+Text                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+JavaScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 56 mins       █████████████████████████   100.00 % 
+Antigravity IDE          8 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bosar-articulos-api      1 hr 36 mins        ██████████████░░░░░░░░░░░   54.81 % 
-portal-nn-app            31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-docs                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-bosar-excel-generator    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-nautilus_trader          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+bosar-articulos-api      3 hrs 50 mins       ████████████░░░░░░░░░░░░░   47.46 % 
+bosar-mf-container       2 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   32.99 % 
+portal-nn-app            46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+docs                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+bosar-excel-generator    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 ```
 
 
- Last Updated on 23/07/2026 02:52:10 UTC
+ Last Updated on 24/07/2026 02:47:11 UTC
 <!--END_SECTION:waka-->
 
 ---
