@@ -113,13 +113,13 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 
 **🐱 My GitHub Data** 
 
-> 📦 280.3 kB Used in GitHub's Storage 
+> 📦 280.5 kB Used in GitHub's Storage 
  > 
-> 🏆 64 Contributions in the Year 2026
+> 🏆 66 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 25 Public Repositories 
+> 📜 27 Public Repositories 
  > 
 > 🔑 35 Private Repositories 
  > 
@@ -150,25 +150,25 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               4 hrs 2 mins        ████████████░░░░░░░░░░░░░   49.85 % 
-Bash                     1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-Text                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-JavaScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+TypeScript               3 hrs 48 mins       ████████████░░░░░░░░░░░░░   46.03 % 
+Bash                     1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+Text                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+JavaScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 
 🔥 Editors: 
-Antigravity IDE          8 hrs 6 mins        █████████████████████████   100.00 % 
+Antigravity IDE          8 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bosar-articulos-api      3 hrs 50 mins       ████████████░░░░░░░░░░░░░   47.46 % 
-bosar-mf-container       2 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   32.99 % 
-portal-nn-app            46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-docs                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-bosar-excel-generator    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+bosar-articulos-api      3 hrs 42 mins       ███████████░░░░░░░░░░░░░░   44.96 % 
+bosar-mf-container       2 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   32.35 % 
+portal-nn-app            46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+bosar-regional-api       29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+docs                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 ```
 
 
- Last Updated on 24/07/2026 02:47:11 UTC
+ Last Updated on 25/07/2026 02:46:26 UTC
 <!--END_SECTION:waka-->
 
 ---
