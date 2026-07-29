@@ -109,10 +109,6 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 ### 📊 WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C142%20hrs%2047%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-69%20hrs%2043%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -154,49 +150,49 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               5 hrs 11 mins       ████████████░░░░░░░░░░░░░   48.78 % 
-Bash                     2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-Text                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+TypeScript               5 hrs 34 mins       ████████████░░░░░░░░░░░░░   46.49 % 
+Bash                     2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+JSON                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Go                       42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 
 🔥 Editors: 
-Antigravity IDE          10 hrs 37 mins      █████████████████████████   100.00 % 
+Antigravity IDE          11 hrs 58 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bosar-articulos-api      3 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   30.32 % 
-bosar-mf-container       2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
-nacer-backend            1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-nacer-frontend           51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-portal-nn-app            46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+bosar-articulos-api      3 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   26.90 % 
+bosar-mf-container       2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+nacer-backend            1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+bot-v3                   1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+nacer-frontend           51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 19 mins (78.28%)
+⏱ AI Coding Time: 9 hrs 40 mins (80.73%)
 
-✍️ 1,898 lines written by AI, 15 lines written by hand (99.22% AI-written)
+✍️ 2,818 lines written by AI, 15 lines written by hand (99.47% AI-written)
 
-🔤 310,106 Input Tokens, 852 Output Tokens
+🔤 744,370 Input Tokens, 4,351 Output Tokens
 
-💵 $0.94 Estimated AI Cost This Week
+💵 $2.30 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 186 AI Prompts
+🧠 18 AI Sessions, 210 AI Prompts
 
-Gemini                   1,623 lines         ███████████████████░░░░░░   74.55 % 
-Github-Copilot           481 lines           ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-Antigravity-Ide          73 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Gemini                   1,780 lines         ██████████████░░░░░░░░░░░   55.21 % 
+Github-Copilot           1,371 lines         ███████████░░░░░░░░░░░░░░   42.52 % 
+Antigravity-Ide          73 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.22% of written lines came from AI
-📄 Detailed Prompter — average 503 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🔍 Hands-On Reviewer — 57.83% of changed lines were hand-edited
+🤖 AI-Driven — 99.47% of written lines came from AI
+📝 Concise Prompter — average 473 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 48.08% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/07/2026 02:38:34 UTC
+ Last Updated on 29/07/2026 02:45:34 UTC
 <!--END_SECTION:waka-->
 
 ---
