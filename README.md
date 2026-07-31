@@ -109,9 +109,9 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 ### 📊 WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C145%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C146%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-72%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-73%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue?style=flat)
 
@@ -154,49 +154,49 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               5 hrs 56 mins       ████████████░░░░░░░░░░░░░   49.60 % 
-Bash                     1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-JSON                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-Go                       46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+TypeScript               3 hrs 35 mins       ████████████░░░░░░░░░░░░░   46.86 % 
+JSON                     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Markdown                 51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Go                       46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+JavaScript               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
 
 🔥 Editors: 
-Antigravity IDE          11 hrs 57 mins      █████████████████████████   100.00 % 
+Antigravity IDE          7 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bosar-mf-container       2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-bosar-articulos-api      2 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
-nacer-backend            1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-bot-v3                   1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-bosar-regional-api       53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+nacer-backend            1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+bot-v3                   1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+bosar-articulos-api      57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+bosar-regional-api       53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+nacer-frontend           51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 3 mins (84.14%)
+⏱ AI Coding Time: 6 hrs 35 mins (85.86%)
 
-✍️ 2,959 lines written by AI, 8 lines written by hand (99.73% AI-written)
+✍️ 3,288 lines written by AI, 2 lines written by hand (99.94% AI-written)
 
-🔤 709,990 Input Tokens, 4,279 Output Tokens
+🔤 1,187,134 Input Tokens, 8,629 Output Tokens
 
-💵 $2.19 Estimated AI Cost This Week
+💵 $3.69 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 203 AI Prompts
+🧠 15 AI Sessions, 142 AI Prompts
 
-Gemini                   1,959 lines         ███████████████░░░░░░░░░░   58.17 % 
-Github-Copilot           1,371 lines         ██████████░░░░░░░░░░░░░░░   40.71 % 
-Antigravity-Ide          38 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Github-Copilot           2,890 lines         █████████████████████░░░░   83.02 % 
+Gemini                   590 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Antigravity-Ide          1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.73% of written lines came from AI
-📄 Detailed Prompter — average 507 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 46.57% of changed lines were hand-edited
+🤖 AI-Driven — 99.94% of written lines came from AI
+📄 Detailed Prompter — average 841 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 2.39% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/07/2026 02:30:50 UTC
+ Last Updated on 31/07/2026 02:55:56 UTC
 <!--END_SECTION:waka-->
 
 ---
