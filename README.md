@@ -109,9 +109,9 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 ### 📊 WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C146%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C147%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-73%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue?style=flat)
 
@@ -154,49 +154,49 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               3 hrs 35 mins       ████████████░░░░░░░░░░░░░   46.86 % 
-JSON                     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Markdown                 51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Go                       46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-JavaScript               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+TypeScript               4 hrs 8 mins        █████████████░░░░░░░░░░░░   52.53 % 
+Markdown                 47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Go                       46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+JavaScript               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
 
 🔥 Editors: 
-Antigravity IDE          7 hrs 40 mins       █████████████████████████   100.00 % 
+Antigravity IDE          7 hrs 52 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nacer-backend            1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-bot-v3                   1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-bosar-articulos-api      57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-bosar-regional-api       53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-nacer-frontend           51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+nacer-backend            1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
+bot-v3                   1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+bosar-articulos-api      1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+nacer-frontend           51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+bosar-regional-api       39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 35 mins (85.86%)
+⏱ AI Coding Time: 6 hrs 56 mins (88.1%)
 
-✍️ 3,288 lines written by AI, 2 lines written by hand (99.94% AI-written)
+✍️ 2,901 lines written by AI, 3 lines written by hand (99.9% AI-written)
 
-🔤 1,187,134 Input Tokens, 8,629 Output Tokens
+🔤 1,058,282 Input Tokens, 7,911 Output Tokens
 
-💵 $3.69 Estimated AI Cost This Week
+💵 $3.29 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 142 AI Prompts
+🧠 17 AI Sessions, 157 AI Prompts
 
-Github-Copilot           2,890 lines         █████████████████████░░░░   83.02 % 
-Gemini                   590 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Github-Copilot           2,889 lines         ████████████████████░░░░░   80.74 % 
+Gemini                   688 lines           █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
 Antigravity-Ide          1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📄 Detailed Prompter — average 841 characters per prompt
+🤖 AI-Driven — 99.9% of written lines came from AI
+📄 Detailed Prompter — average 740 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 2.39% of changed lines were hand-edited
+🚀 High AI Trust — 1.78% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/07/2026 02:55:56 UTC
+ Last Updated on 01/08/2026 02:55:14 UTC
 <!--END_SECTION:waka-->
 
 ---
