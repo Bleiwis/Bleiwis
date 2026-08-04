@@ -154,48 +154,48 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               2 hrs 42 mins       ███████████░░░░░░░░░░░░░░   43.39 % 
-JavaScript               51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Go                       40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Markdown                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-JSON                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+TypeScript               2 hrs 42 mins       ████████████░░░░░░░░░░░░░   48.20 % 
+JavaScript               51 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+JSON                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Go                       23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
 
 🔥 Editors: 
-Antigravity IDE          6 hrs 14 mins       █████████████████████████   100.00 % 
+Antigravity IDE          5 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bot-v3                   1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   27.57 % 
-rectificadora-app        1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-bosar-articulos-api      53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-bosar-regional-api       39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-portal-nn-app            28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+rectificadora-app        1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+bot-v3                   1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+bosar-articulos-api      53 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+bosar-regional-api       39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+portal-nn-app            28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 41 mins (91.15%)
+⏱ AI Coding Time: 5 hrs 15 mins (93.57%)
 
-✍️ 3,265 lines written by AI, 11 lines written by hand (99.66% AI-written)
+✍️ 3,194 lines written by AI, 11 lines written by hand (99.66% AI-written)
 
-🔤 1,351,276 Input Tokens, 11,763 Output Tokens
+🔤 1,204,402 Input Tokens, 11,701 Output Tokens
 
-💵 $4.23 Estimated AI Cost This Week
+💵 $3.79 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 122 AI Prompts
+🧠 16 AI Sessions, 110 AI Prompts
 
-Github-Copilot           2,801 lines         █████████████████████░░░░   82.19 % 
-Gemini                   607 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+Github-Copilot           2,801 lines         █████████████████████░░░░   84.16 % 
+Gemini                   527 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.66% of written lines came from AI
-📄 Detailed Prompter — average 1,209 characters per prompt
+📄 Detailed Prompter — average 1,299 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.87% of changed lines were hand-edited
+🚀 High AI Trust — 0.63% of changed lines were hand-edited
 ```
 
 
- Last Updated on 03/08/2026 02:55:14 UTC
+ Last Updated on 04/08/2026 02:39:23 UTC
 <!--END_SECTION:waka-->
 
 ---
