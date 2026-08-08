@@ -109,6 +109,10 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 ### 📊 WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C156%20hrs%2027%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%2054%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -150,49 +154,50 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               2 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   39.11 % 
-Python                   1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Markdown                 40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-Bash                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Text                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+TypeScript               3 hrs 41 mins       ████████████░░░░░░░░░░░░░   47.96 % 
+Python                   1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Markdown                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Text                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 🔥 Editors: 
-Antigravity IDE          6 hrs 19 mins       █████████████████████████   100.00 % 
+Antigravity IDE          7 hrs 41 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-binance-v1               2 hrs 48 mins       ███████████░░░░░░░░░░░░░░   44.47 % 
-bosar-excel-generator    53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Unknown Project          31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-bosar-articulos-api      30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-deconohee-catalog        26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+binance-v1               2 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   36.53 % 
+bosar-catalogacion-api   1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+bosar-excel-generator    53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Unknown Project          47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+deconohee-catalog        26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 7 mins (97.01%)
+⏱ AI Coding Time: 7 hrs 33 mins (98.17%)
 
-✍️ 2,921 lines written by AI, 15 lines written by hand (99.49% AI-written)
+✍️ 2,972 lines written by AI, 16 lines written by hand (99.46% AI-written)
 
-🔤 1,308,184 Input Tokens, 6,259 Output Tokens
+🔤 1,513,295 Input Tokens, 7,175 Output Tokens
 
-💵 $4.02 Estimated AI Cost This Week
+💵 $4.65 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 130 AI Prompts
+🧠 15 AI Sessions, 146 AI Prompts
 
-Github-Copilot           2,056 lines         █████████████████░░░░░░░░   66.22 % 
-Gemini                   1,036 lines         ████████░░░░░░░░░░░░░░░░░   33.37 % 
-Gpt-Oss                  13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Github-Copilot           2,218 lines         █████████████████░░░░░░░░   67.09 % 
+Gemini                   873 lines           ███████░░░░░░░░░░░░░░░░░░   26.41 % 
+Antigravity-Ide          202 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Gpt-Oss                  13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.49% of written lines came from AI
-📄 Detailed Prompter — average 845 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.7% of changed lines were hand-edited
+🤖 AI-Driven — 99.46% of written lines came from AI
+📄 Detailed Prompter — average 862 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.48% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/08/2026 02:44:05 UTC
+ Last Updated on 08/08/2026 01:44:44 UTC
 <!--END_SECTION:waka-->
 
 ---
