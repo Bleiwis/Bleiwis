@@ -154,50 +154,50 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               3 hrs 6 mins        █████████████░░░░░░░░░░░░   51.91 % 
-Python                   1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
-Markdown                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-Text                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-CSV                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+TypeScript               5 hrs 36 mins       ████████████████░░░░░░░░░   62.25 % 
+Python                   1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+CSV                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Text                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Makefile                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 🔥 Editors: 
-Antigravity IDE          5 hrs 59 mins       █████████████████████████   100.00 % 
+Antigravity IDE          8 hrs 59 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-binance-v1               2 hrs 48 mins       ████████████░░░░░░░░░░░░░   46.94 % 
-bosar-catalogacion-api   1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-argentina-mdh            23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Unknown Project          22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-bosar-excel-generator    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+binance-v1               3 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   39.49 % 
+bosar-catalogacion-api   1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Unknown Project          1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+colombia-mdh             43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+argentina-mdh            31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 51 mins (97.7%)
+⏱ AI Coding Time: 8 hrs 52 mins (98.54%)
 
-✍️ 1,218 lines written by AI, 7 lines written by hand (99.43% AI-written)
+✍️ 3,918 lines written by AI, 5 lines written by hand (99.87% AI-written)
 
-🔤 851,373 Input Tokens, 3,674 Output Tokens
+🔤 2,463,471 Input Tokens, 10,023 Output Tokens
 
-💵 $2.61 Estimated AI Cost This Week
+💵 $7.54 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 112 AI Prompts
+🧠 16 AI Sessions, 168 AI Prompts
 
-Gemini                   873 lines           ███████████████░░░░░░░░░░   61.83 % 
-Github-Copilot           324 lines           ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-Antigravity-Ide          202 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Gpt-Oss                  13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Github-Copilot           3,076 lines         ██████████████████░░░░░░░   73.96 % 
+Gemini                   868 lines           █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+Antigravity-Ide          202 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Gpt-Oss                  13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.43% of written lines came from AI
-📄 Detailed Prompter — average 506 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.5% of changed lines were hand-edited
+🤖 AI-Driven — 99.87% of written lines came from AI
+📄 Detailed Prompter — average 585 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.12% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/08/2026 01:50:30 UTC
+ Last Updated on 12/08/2026 02:03:12 UTC
 <!--END_SECTION:waka-->
 
 ---
