@@ -109,9 +109,9 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 ### 📊 WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C163%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C165%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-90%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-91%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -154,49 +154,50 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               3 hrs 7 mins        ███████████████░░░░░░░░░░   59.03 % 
-Bash                     55 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-Markdown                 38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-CSV                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+TypeScript               5 hrs 13 mins       █████████████░░░░░░░░░░░░   53.65 % 
+Markdown                 2 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+Bash                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
 🔥 Editors: 
-Antigravity IDE          5 hrs 17 mins       █████████████████████████   100.00 % 
+Antigravity IDE          9 hrs 4 mins        ███████████████████████░░   93.02 % 
+Copilot CLI              40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 
 🐱‍💻 Projects: 
-ta                       1 hr 46 mins        ████████░░░░░░░░░░░░░░░░░   33.38 % 
-bosar-catalogacion-api   1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-poc_agente               59 mins             █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-argentina-mdh            23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Unknown Project          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+ta                       5 hrs 15 mins       █████████████░░░░░░░░░░░░   53.96 % 
+mdm_poc                  1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+poc_agente               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+binance-report-panel     1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+binance-report           52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 5 mins (96.01%)
+⏱ AI Coding Time: 9 hrs 37 mins (98.73%)
 
-✍️ 2,818 lines written by AI, 2 lines written by hand (99.93% AI-written)
+✍️ 11,629 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,148,542 Input Tokens, 10,516 Output Tokens
+🔤 8,395,815 Input Tokens, 62,723 Output Tokens
 
-💵 $9.60 Estimated AI Cost This Week
+💵 $26.26 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 106 AI Prompts
+🧠 15 AI Sessions, 198 AI Prompts
 
-Github-Copilot           2,755 lines         ███████████████████████░░   92.76 % 
-Antigravity-Ide          202 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-Gemini                   13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Github-Copilot           11,172 lines        ██████████████████████░░░   88.74 % 
+GPT                      1,417 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.93% of written lines came from AI
-📄 Detailed Prompter — average 661 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.07% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 811 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/08/2026 02:03:05 UTC
+ Last Updated on 15/08/2026 01:18:23 UTC
 <!--END_SECTION:waka-->
 
 ---
