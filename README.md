@@ -154,50 +154,50 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               5 hrs 36 mins       ██████████████░░░░░░░░░░░   54.95 % 
-Markdown                 2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-Bash                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+TypeScript               4 hrs 7 mins        █████████████░░░░░░░░░░░░   50.21 % 
+Markdown                 2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
+Bash                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 🔥 Editors: 
-Antigravity IDE          9 hrs 29 mins       ███████████████████████░░   92.94 % 
-Copilot CLI              43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Antigravity IDE          7 hrs 29 mins       ███████████████████████░░   91.21 % 
+Copilot CLI              43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
 
 🐱‍💻 Projects: 
-ta                       5 hrs 39 mins       ██████████████░░░░░░░░░░░   55.34 % 
-mdm_poc                  1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-poc_agente               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-binance-report-panel     1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-binance-report           52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+ta                       5 hrs 39 mins       █████████████████░░░░░░░░   68.88 % 
+mdm_poc                  1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+poc_agente               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+binance-report           11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+bosar-catalogacion-api   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 3 mins (98.46%)
+⏱ AI Coding Time: 8 hrs 2 mins (98.09%)
 
-✍️ 12,348 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 10,238 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,750,090 Input Tokens, 64,528 Output Tokens
+🔤 7,782,561 Input Tokens, 61,071 Output Tokens
 
-💵 $27.61 Estimated AI Cost This Week
+💵 $24.65 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 207 AI Prompts
+🧠 18 AI Sessions, 163 AI Prompts
 
-Github-Copilot           11,891 lines        ██████████████████████░░░   89.35 % 
-GPT                      1,417 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Github-Copilot           9,577 lines         ██████████████████████░░░   87.11 % 
+GPT                      1,417 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 785 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📄 Detailed Prompter — average 842 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/08/2026 01:20:39 UTC
+ Last Updated on 18/08/2026 01:17:32 UTC
 <!--END_SECTION:waka-->
 
 ---
