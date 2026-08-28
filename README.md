@@ -109,9 +109,9 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 ### 📊 WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C184%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C193%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-110%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-120%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -154,51 +154,48 @@ Sunday                   13 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               11 hrs 41 mins      ███████████████░░░░░░░░░░   59.70 % 
-Markdown                 4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
-JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-Go                       37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+TypeScript               11 hrs              ██████████████░░░░░░░░░░░   54.02 % 
+Markdown                 3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Go                       3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Python                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 
 🔥 Editors: 
-Antigravity IDE          19 hrs 17 mins      █████████████████████████   98.56 % 
-Antigravity Desktop      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Antigravity IDE          20 hrs 22 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mdm_api                  8 hrs 52 mins       ███████████░░░░░░░░░░░░░░   45.35 % 
-deconohee-catalog        3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-bellas-dashboard-ecommerc1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-market-analyzer          1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-bosar-auth-api           55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+mdm_api                  8 hrs 56 mins       ███████████░░░░░░░░░░░░░░   43.85 % 
+obi-bot                  3 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+deconohee-catalog        3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+bellas-dashboard-ecommerc1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+bosar-auth-api           41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 4 mins (97.48%)
+⏱ AI Coding Time: 19 hrs 41 mins (96.63%)
 
-✍️ 11,240 lines written by AI, 199 lines written by hand (98.26% AI-written)
+✍️ 5,297 lines written by AI, 199 lines written by hand (96.38% AI-written)
 
-🔤 155,757 Input Tokens, 845 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.54 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 39 AI Sessions, 304 AI Prompts
+🧠 40 AI Sessions, 329 AI Prompts
 
-Github-Copilot           8,494 lines         █████████████████░░░░░░░░   69.24 % 
-Gemini                   3,745 lines         ████████░░░░░░░░░░░░░░░░░   30.53 % 
-Sonnet                   23 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-GPT                      5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Gemini                   6,036 lines         ████████████████████████░   94.85 % 
+Sonnet                   328 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.26% of written lines came from AI
-📄 Detailed Prompter — average 600 characters per prompt
+🤖 AI-Driven — 96.38% of written lines came from AI
+📄 Detailed Prompter — average 506 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 2.26% of changed lines were hand-edited
+🚀 High AI Trust — 4.3% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/08/2026 08:03:07 UTC
+ Last Updated on 28/08/2026 10:06:12 UTC
 <!--END_SECTION:waka-->
 
 ---
