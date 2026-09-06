@@ -109,9 +109,9 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 ### 📊 WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C212%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C216%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-138%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-142%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -154,52 +154,52 @@ Sunday                   13 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               7 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   37.23 % 
-Go                       3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Markdown                 3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-JSON                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-SQL                      58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+TypeScript               8 hrs 5 mins        ███████████░░░░░░░░░░░░░░   43.14 % 
+Markdown                 2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Go                       2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+SQL                      58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+JSON                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 
 🔥 Editors: 
-Antigravity IDE          14 hrs 31 mins      ███████████████████░░░░░░   76.05 % 
-Copilot CLI              4 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
+Antigravity IDE          14 hrs 10 mins      ███████████████████░░░░░░   75.58 % 
+Copilot CLI              4 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
 
 🐱‍💻 Projects: 
-ta-bot                   2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-bosar-auth-api           2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-deconohee-catalog        1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-AxonHarness              1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-excel_validacion         1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+ta-bot                   2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+mdm_api                  2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+bosar-auth-api           2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+deconohee-catalog        1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+AxonHarness              1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 17 mins (95.71%)
+⏱ AI Coding Time: 17 hrs 57 mins (95.78%)
 
-✍️ 5,595 lines written by AI, 130 lines written by hand (97.73% AI-written)
+✍️ 5,243 lines written by AI, 130 lines written by hand (97.58% AI-written)
 
-🔤 1,027,310 Input Tokens, 317,171 Output Tokens
+🔤 1,287,768 Input Tokens, 317,520 Output Tokens
 
-💵 $16.63 Estimated AI Cost This Week
+💵 $17.41 Estimated AI Cost This Week
 
-🧠 56 AI Sessions, 322 AI Prompts
+🧠 54 AI Sessions, 319 AI Prompts
 
-Gemini                   3,170 lines         ████████████░░░░░░░░░░░░░   49.76 % 
-GPT                      1,625 lines         ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
-Github-Copilot           1,575 lines         ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
+Gemini                   2,651 lines         ███████████░░░░░░░░░░░░░░   44.07 % 
+Github-Copilot           1,740 lines         ███████░░░░░░░░░░░░░░░░░░   28.92 % 
+GPT                      1,625 lines         ███████░░░░░░░░░░░░░░░░░░   27.01 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Code                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.73% of written lines came from AI
-📄 Detailed Prompter — average 655 characters per prompt
+🤖 AI-Driven — 97.58% of written lines came from AI
+📄 Detailed Prompter — average 672 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 2.21% of changed lines were hand-edited
+🚀 High AI Trust — 2.34% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/09/2026 03:26:28 UTC
+ Last Updated on 06/09/2026 03:26:48 UTC
 <!--END_SECTION:waka-->
 
 ---
