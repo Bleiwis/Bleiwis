@@ -119,7 +119,7 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 
 > 📦 304.3 kB Used in GitHub's Storage 
  > 
-> 🏆 110 Contributions in the Year 2026
+> 🏆 112 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -130,21 +130,21 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                66 commits          █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-🌆 Daytime                182 commits         ███████████████░░░░░░░░░░   59.09 % 
-🌃 Evening                57 commits          █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+🌞 Morning                66 commits          █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+🌆 Daytime                182 commits         ███████████████░░░░░░░░░░   58.71 % 
+🌃 Evening                59 commits          █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
 🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   86 commits          ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-Tuesday                  41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Wednesday                55 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Thursday                 34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Friday                   55 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Saturday                 24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-Sunday                   13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Monday                   86 commits          ███████░░░░░░░░░░░░░░░░░░   27.74 % 
+Tuesday                  41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Wednesday                57 commits          █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Thursday                 34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Friday                   55 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Saturday                 24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Sunday                   13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 ```
 
 
@@ -154,52 +154,52 @@ Sunday                   13 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               7 hrs 4 mins        █████████████░░░░░░░░░░░░   53.68 % 
-Markdown                 1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Go                       55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-SQL                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+TypeScript               4 hrs 44 mins       ████████████████░░░░░░░░░   64.55 % 
+Markdown                 57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 
 🔥 Editors: 
-Antigravity IDE          8 hrs 36 mins       ████████████████░░░░░░░░░   65.27 % 
-Copilot CLI              4 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   34.73 % 
+Antigravity IDE          6 hrs 26 mins       ██████████████████████░░░   87.83 % 
+Copilot CLI              53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
 
 🐱‍💻 Projects: 
-mdm_api                  2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-bosar-auth-api           2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-deconohee-catalog        1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-freqtrade                1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-bosar-mf-container       55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+mdm_api                  2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   28.17 % 
+deconohee-catalog        1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   26.60 % 
+bosar-auth-api           41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+frontend                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+AxonHarness              22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 49 mins (97.25%)
+⏱ AI Coding Time: 7 hrs 10 mins (97.71%)
 
-✍️ 4,105 lines written by AI, 9 lines written by hand (99.78% AI-written)
+✍️ 2,679 lines written by AI, 7 lines written by hand (99.74% AI-written)
 
-🔤 1,287,768 Input Tokens, 317,520 Output Tokens
+🔤 1,285,496 Input Tokens, 39,456 Output Tokens
 
-💵 $17.41 Estimated AI Cost This Week
+💵 $12.60 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 200 AI Prompts
+🧠 24 AI Sessions, 116 AI Prompts
 
-Github-Copilot           1,740 lines         █████████░░░░░░░░░░░░░░░░   35.65 % 
-GPT                      1,625 lines         ████████░░░░░░░░░░░░░░░░░   33.29 % 
-Gemini                   1,516 lines         ████████░░░░░░░░░░░░░░░░░   31.06 % 
-Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           1,740 lines         ██████████████░░░░░░░░░░░   57.03 % 
+Gemini                   1,169 lines         ██████████░░░░░░░░░░░░░░░   38.32 % 
+GPT                      142 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 Code                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.78% of written lines came from AI
-📄 Detailed Prompter — average 863 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.44% of changed lines were hand-edited
+🤖 AI-Driven — 99.74% of written lines came from AI
+📄 Detailed Prompter — average 966 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.64% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/09/2026 03:36:33 UTC
+ Last Updated on 10/09/2026 03:33:45 UTC
 <!--END_SECTION:waka-->
 
 ---
