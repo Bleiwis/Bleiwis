@@ -109,17 +109,17 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 ### 📊 WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C218%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C219%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-145%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-146%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 304.3 kB Used in GitHub's Storage 
+> 📦 328.8 kB Used in GitHub's Storage 
  > 
-> 🏆 112 Contributions in the Year 2026
+> 🏆 115 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -130,21 +130,21 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                67 commits          █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-🌆 Daytime                187 commits         ███████████████░░░░░░░░░░   58.44 % 
-🌃 Evening                63 commits          █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+🌞 Morning                67 commits          █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+🌆 Daytime                188 commits         ███████████████░░░░░░░░░░   58.20 % 
+🌃 Evening                65 commits          █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   93 commits          ███████░░░░░░░░░░░░░░░░░░   29.06 % 
-Tuesday                  41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Wednesday                58 commits          █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-Thursday                 36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Friday                   55 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Saturday                 24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Sunday                   13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Monday                   93 commits          ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+Tuesday                  41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Wednesday                58 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+Thursday                 36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Friday                   58 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+Saturday                 24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Sunday                   13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 ```
 
 
@@ -154,50 +154,52 @@ Sunday                   13 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               4 hrs 58 mins       █████████████████░░░░░░░░   68.82 % 
-Markdown                 59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-SQL                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+TypeScript               5 hrs 8 mins        ██████████████░░░░░░░░░░░   56.08 % 
+Bash                     1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Markdown                 1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+SQL                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 🔥 Editors: 
-Antigravity IDE          7 hrs 14 mins       █████████████████████████   100.00 % 
+Antigravity IDE          8 hrs 40 mins       ████████████████████████░   94.44 % 
+Copilot CLI              30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 
 🐱‍💻 Projects: 
-deconohee-catalog        3 hrs 3 mins        ███████████░░░░░░░░░░░░░░   42.34 % 
-mdm_api                  2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   28.55 % 
-frontend                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-rectificadora-app        17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-Unknown Project          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+mdm_api                  2 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
+deconohee-catalog        1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+p2p                      1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+bosar-mf-container       57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+bosar-mf-catalogacion    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 7 mins (98.52%)
+⏱ AI Coding Time: 9 hrs 10 mins (99.92%)
 
-✍️ 3,229 lines written by AI, 6 lines written by hand (99.81% AI-written)
+✍️ 3,441 lines written by AI, 1 lines written by hand (99.97% AI-written)
 
-🔤 649,276 Input Tokens, 2,393 Output Tokens
+🔤 2,615,217 Input Tokens, 38,904 Output Tokens
 
-💵 $2.82 Estimated AI Cost This Week
+💵 $15.87 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 123 AI Prompts
+🧠 26 AI Sessions, 132 AI Prompts
 
-Github-Copilot           2,235 lines         ███████████████░░░░░░░░░░   61.95 % 
-Gemini                   1,246 lines         █████████░░░░░░░░░░░░░░░░   34.53 % 
-GPT                      127 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Github-Copilot           2,871 lines         █████████████████████░░░░   82.41 % 
+Gemini                   504 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+GPT                      109 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Code                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.81% of written lines came from AI
-📄 Detailed Prompter — average 1,044 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.51% of changed lines were hand-edited
+🤖 AI-Driven — 99.97% of written lines came from AI
+📄 Detailed Prompter — average 786 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/09/2026 03:32:03 UTC
+ Last Updated on 12/09/2026 03:37:00 UTC
 <!--END_SECTION:waka-->
 
 ---
