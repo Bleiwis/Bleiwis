@@ -109,9 +109,9 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 ### 📊 WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C247%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C248%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-175%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -154,49 +154,49 @@ Sunday                   15 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               13 hrs 56 mins      ████████████████░░░░░░░░░   64.01 % 
-Bash                     1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-Markdown                 1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Other                    1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-JSON                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+TypeScript               13 hrs 25 mins      █████████████████░░░░░░░░   69.40 % 
+Bash                     1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Other                    1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+JavaScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 🔥 Editors: 
-Antigravity IDE          20 hrs 2 mins       ███████████████████████░░   92.05 % 
-Antigravity Desktop      1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Antigravity IDE          17 hrs 36 mins      ███████████████████████░░   91.05 % 
+Antigravity Desktop      1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
 
 🐱‍💻 Projects: 
-bellas-dashboard-ecommerc8 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   40.09 % 
-deconohee-catalog        7 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   33.02 % 
-bosar-catalogacion-api   2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-bulk-catalog             2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-function_optimizer       30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+bellas-dashboard-ecommerc8 hrs 43 mins       ███████████░░░░░░░░░░░░░░   45.12 % 
+deconohee-catalog        6 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   33.96 % 
+bosar-catalogacion-api   3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+function_optimizer       30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+bosar-abm-articulos-batch18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 21 mins (93.52%)
+⏱ AI Coding Time: 18 hrs 1 min (93.13%)
 
-✍️ 2,935 lines written by AI, 86 lines written by hand (97.15% AI-written)
+✍️ 3,613 lines written by AI, 85 lines written by hand (97.7% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 48 AI Sessions, 280 AI Prompts
+🧠 49 AI Sessions, 267 AI Prompts
 
-Gemini                   2,903 lines         ██████████████████████░░░   87.49 % 
-Sonnet                   415 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Gemini                   3,579 lines         ██████████████████████░░░   89.61 % 
+Sonnet                   415 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.15% of written lines came from AI
-📝 Concise Prompter — average 432 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 3.04% of changed lines were hand-edited
+🤖 AI-Driven — 97.7% of written lines came from AI
+📝 Concise Prompter — average 435 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 2.38% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/09/2026 03:48:48 UTC
+ Last Updated on 23/09/2026 03:47:11 UTC
 <!--END_SECTION:waka-->
 
 ---
