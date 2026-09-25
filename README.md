@@ -109,23 +109,23 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 ### 📊 WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C250%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C251%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-176%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-178%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 336.2 kB Used in GitHub's Storage 
+> 📦 352.0 kB Used in GitHub's Storage 
  > 
-> 🏆 171 Contributions in the Year 2026
+> 🏆 172 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 29 Public Repositories 
  > 
-> 🔑 37 Private Repositories 
+> 🔑 38 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -154,49 +154,49 @@ Sunday                   15 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               10 hrs 22 mins      █████████████████░░░░░░░░   68.14 % 
-Bash                     2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Markdown                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-Other                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+TypeScript               7 hrs 46 mins       ██████████████░░░░░░░░░░░   56.59 % 
+Other                    2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Bash                     1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Go                       21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🔥 Editors: 
-Antigravity IDE          13 hrs 6 mins       ██████████████████████░░░   86.11 % 
-Antigravity Desktop      2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Antigravity IDE          9 hrs 38 mins       ██████████████████░░░░░░░   70.17 % 
+Antigravity Desktop      4 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.83 % 
 
 🐱‍💻 Projects: 
-deconohee-catalog        5 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   37.96 % 
-bosar-catalogacion-api   4 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-bellas-dashboard-ecommerc3 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
-function_optimizer       30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-fin-app                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+bosar-catalogacion-api   4 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   31.44 % 
+bellas-dashboard-ecommerc3 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   28.46 % 
+deconohee-catalog        2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+fin-app                  1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+frontend                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 46 mins (90.46%)
+⏱ AI Coding Time: 12 hrs 22 mins (90.14%)
 
-✍️ 2,241 lines written by AI, 90 lines written by hand (96.14% AI-written)
+✍️ 1,867 lines written by AI, 82 lines written by hand (95.79% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 196 AI Prompts
+🧠 35 AI Sessions, 171 AI Prompts
 
-Gemini                   2,106 lines         █████████████████████░░░░   84.07 % 
-Sonnet                   399 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Gemini                   1,971 lines         ████████████████████████░   94.13 % 
+Sonnet                   123 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.14% of written lines came from AI
-📝 Concise Prompter — average 475 characters per prompt
+🤖 AI-Driven — 95.79% of written lines came from AI
+📝 Concise Prompter — average 479 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 3.91% of changed lines were hand-edited
+🚀 High AI Trust — 4.25% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/09/2026 03:38:42 UTC
+ Last Updated on 25/09/2026 03:55:28 UTC
 <!--END_SECTION:waka-->
 
 ---
