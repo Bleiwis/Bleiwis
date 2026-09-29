@@ -117,9 +117,9 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 
 **🐱 My GitHub Data** 
 
-> 📦 367.1 kB Used in GitHub's Storage 
+> 📦 368.2 kB Used in GitHub's Storage 
  > 
-> 🏆 173 Contributions in the Year 2026
+> 🏆 179 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -130,21 +130,21 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                88 commits          ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-🌆 Daytime                223 commits         ███████████████░░░░░░░░░░   58.22 % 
-🌃 Evening                69 commits          █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+🌞 Morning                89 commits          ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
+🌆 Daytime                228 commits         ███████████████░░░░░░░░░░   58.46 % 
+🌃 Evening                70 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   102 commits         ███████░░░░░░░░░░░░░░░░░░   26.63 % 
-Tuesday                  51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Wednesday                71 commits          █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-Thursday                 39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-Friday                   68 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Saturday                 36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Sunday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Monday                   109 commits         ███████░░░░░░░░░░░░░░░░░░   27.95 % 
+Tuesday                  51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Wednesday                71 commits          █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Thursday                 39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Friday                   68 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Saturday                 36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Sunday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 ```
 
 
@@ -154,48 +154,48 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               4 hrs 44 mins       █████████████░░░░░░░░░░░░   51.87 % 
-Other                    2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
-Bash                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-Go                       28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+TypeScript               3 hrs 29 mins       ███████████░░░░░░░░░░░░░░   45.28 % 
+Other                    2 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   28.22 % 
+Bash                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Go                       28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 🔥 Editors: 
-Antigravity IDE          6 hrs 16 mins       █████████████████░░░░░░░░   68.61 % 
-Antigravity Desktop      2 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.39 % 
+Antigravity IDE          5 hrs 20 mins       █████████████████░░░░░░░░   69.28 % 
+Antigravity Desktop      2 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   30.72 % 
 
 🐱‍💻 Projects: 
-fin-app                  3 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   39.10 % 
-deconohee-catalog        2 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
-bosar-catalogacion-api   1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-frontend                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-bellas-dashboard-ecommerc32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+fin-app                  3 hrs 34 mins       ████████████░░░░░░░░░░░░░   46.45 % 
+bosar-catalogacion-api   1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+deconohee-catalog        1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+frontend                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+bosar-abm-articulos-batch15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 11 mins (67.7%)
+⏱ AI Coding Time: 4 hrs 48 mins (62.47%)
 
-✍️ 1,084 lines written by AI, 663 lines written by hand (62.05% AI-written)
+✍️ 873 lines written by AI, 656 lines written by hand (57.1% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 72 AI Prompts
+🧠 14 AI Sessions, 53 AI Prompts
 
-Gemini                   1,181 lines         █████████████████████████   100.00 % 
+Gemini                   969 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 62.05% of written lines came from AI
-📝 Concise Prompter — average 426 characters per prompt
+⚖️ Balanced with AI — 57.1% of written lines came from AI
+📝 Concise Prompter — average 475 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 66.21% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 70.5% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/09/2026 04:13:45 UTC
+ Last Updated on 29/09/2026 04:45:35 UTC
 <!--END_SECTION:waka-->
 
 ---
