@@ -109,7 +109,7 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 ### 📊 WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C254%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C255%20hrs%2058%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-180%20hrs%2048%20mins-blue?style=flat)
 
@@ -154,48 +154,47 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               3 hrs 29 mins       ███████████░░░░░░░░░░░░░░   45.28 % 
-Other                    2 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   28.22 % 
-Bash                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Go                       28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+TypeScript               3 hrs 21 mins       ███████████░░░░░░░░░░░░░░   45.58 % 
+Other                    2 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   29.49 % 
+Bash                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Go                       28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 
 🔥 Editors: 
-Antigravity IDE          5 hrs 20 mins       █████████████████░░░░░░░░   69.28 % 
-Antigravity Desktop      2 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   30.72 % 
+Antigravity IDE          5 hrs               █████████████████░░░░░░░░   67.90 % 
+Antigravity Desktop      2 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   32.10 % 
 
 🐱‍💻 Projects: 
-fin-app                  3 hrs 34 mins       ████████████░░░░░░░░░░░░░   46.45 % 
-bosar-catalogacion-api   1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
-deconohee-catalog        1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-frontend                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-bosar-abm-articulos-batch15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+fin-app                  3 hrs 34 mins       ████████████░░░░░░░░░░░░░   48.54 % 
+bosar-catalogacion-api   1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
+deconohee-catalog        1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+frontend                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 48 mins (62.47%)
+⏱ AI Coding Time: 3 hrs 15 mins (44.21%)
 
-✍️ 873 lines written by AI, 656 lines written by hand (57.1% AI-written)
+✍️ 8 lines written by AI, 1,049 lines written by hand (0.76% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 53 AI Prompts
+🧠 7 AI Sessions, 30 AI Prompts
 
-Gemini                   969 lines           █████████████████████████   100.00 % 
+Gemini                   97 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 57.1% of written lines came from AI
-📝 Concise Prompter — average 475 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.76% of written lines came from AI
+📄 Detailed Prompter — average 592 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 70.5% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 97.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/09/2026 04:45:35 UTC
+ Last Updated on 30/09/2026 04:30:38 UTC
 <!--END_SECTION:waka-->
 
 ---
