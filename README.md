@@ -109,17 +109,17 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 ### 📊 WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C262%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C262%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-183%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-183%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 370.7 kB Used in GitHub's Storage 
+> 📦 370.9 kB Used in GitHub's Storage 
  > 
-> 🏆 185 Contributions in the Year 2026
+> 🏆 190 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -130,21 +130,21 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                89 commits          ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-🌆 Daytime                232 commits         ███████████████░░░░░░░░░░   58.59 % 
-🌃 Evening                72 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+🌞 Morning                89 commits          ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+🌆 Daytime                237 commits         ███████████████░░░░░░░░░░   59.10 % 
+🌃 Evening                72 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   110 commits         ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-Tuesday                  51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Wednesday                71 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-Thursday                 40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Friday                   69 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-Saturday                 37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Sunday                   18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Monday                   110 commits         ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+Tuesday                  56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Wednesday                71 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Thursday                 40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Friday                   69 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Saturday                 37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Sunday                   18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 ```
 
 
@@ -154,47 +154,47 @@ Sunday                   18 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               5 hrs 7 mins        ████████████████░░░░░░░░░   64.83 % 
-Bash                     1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Markdown                 43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-SQL                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+TypeScript               4 hrs 27 mins       ████████████████░░░░░░░░░   63.83 % 
+Bash                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Markdown                 36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+SQL                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 🔥 Editors: 
-Antigravity IDE          7 hrs 53 mins       █████████████████████████   100.00 % 
+Antigravity IDE          6 hrs 59 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bellas-dashboard-ecommerc1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
-mdm-monitor-app          1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-deconohee-catalog        56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-bosar-catalogacion-api   49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-mdm-monitor              41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+bellas-dashboard-ecommerc1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+mdm-monitor-app          1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+mdm-monitor              41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+fin-app                  39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+bosar-abm-articulos-batch37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 41 mins (34.02%)
+⏱ AI Coding Time: 3 hrs 2 mins (43.47%)
 
-✍️ 2,512 lines written by AI, 619 lines written by hand (80.23% AI-written)
+✍️ 3,296 lines written by AI, 225 lines written by hand (93.61% AI-written)
 
-🔤 1,000,638 Input Tokens, 8,081 Output Tokens
+🔤 1,153,823 Input Tokens, 9,463 Output Tokens
 
-💵 $3.12 Estimated AI Cost This Week
+💵 $3.60 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 59 AI Prompts
+🧠 14 AI Sessions, 63 AI Prompts
 
-Github-Copilot           2,751 lines         █████████████████████████   100.00 % 
+Github-Copilot           3,642 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 80.23% of written lines came from AI
-📄 Detailed Prompter — average 567 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 21.33% of changed lines were hand-edited
+🤖 AI-Driven — 93.61% of written lines came from AI
+📄 Detailed Prompter — average 545 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 8.17% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/10/2026 05:22:15 UTC
+ Last Updated on 07/10/2026 04:50:58 UTC
 <!--END_SECTION:waka-->
 
 ---
