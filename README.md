@@ -109,17 +109,17 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 ### 📊 WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C269%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C270%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-186%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-186%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 371.0 kB Used in GitHub's Storage 
+> 📦 371.7 kB Used in GitHub's Storage 
  > 
-> 🏆 196 Contributions in the Year 2026
+> 🏆 201 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -130,21 +130,21 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                92 commits          ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
-🌆 Daytime                237 commits         ███████████████░░░░░░░░░░   58.37 % 
-🌃 Evening                74 commits          █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+🌞 Morning                92 commits          ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+🌆 Daytime                241 commits         ███████████████░░░░░░░░░░   58.64 % 
+🌃 Evening                75 commits          █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   110 commits         ███████░░░░░░░░░░░░░░░░░░   27.09 % 
-Tuesday                  56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Wednesday                71 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-Thursday                 42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Friday                   72 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Saturday                 37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-Sunday                   18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Monday                   110 commits         ███████░░░░░░░░░░░░░░░░░░   26.76 % 
+Tuesday                  56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Wednesday                71 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Thursday                 42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Friday                   72 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Saturday                 42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Sunday                   18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 ```
 
 
@@ -154,47 +154,47 @@ Sunday                   18 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               5 hrs 27 mins       █████████████░░░░░░░░░░░░   51.66 % 
-Markdown                 2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-JavaScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Bash                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Gherkin                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+TypeScript               5 hrs 54 mins       █████████████░░░░░░░░░░░░   53.45 % 
+Markdown                 2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+JavaScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Gherkin                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
 🔥 Editors: 
-Antigravity IDE          10 hrs 33 mins      █████████████████████████   100.00 % 
+Antigravity IDE          11 hrs 2 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bellas-dashboard-ecommerc2 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   26.40 % 
-fin-frontend             2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
-deconohee-catalog        1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-fin-app                  1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-bosar-excel-generator    1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+bellas-dashboard-ecommerc3 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   29.30 % 
+fin-frontend             2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
+deconohee-catalog        1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+fin-app                  1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+bosar-excel-generator    1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 45 mins (54.49%)
+⏱ AI Coding Time: 5 hrs 16 mins (47.77%)
 
-✍️ 6,350 lines written by AI, 359 lines written by hand (94.65% AI-written)
+✍️ 6,248 lines written by AI, 422 lines written by hand (93.67% AI-written)
 
-🔤 2,867,752 Input Tokens, 11,940 Output Tokens
+🔤 2,578,433 Input Tokens, 8,958 Output Tokens
 
-💵 $8.78 Estimated AI Cost This Week
+💵 $7.87 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 198 AI Prompts
+🧠 16 AI Sessions, 190 AI Prompts
 
-Github-Copilot           6,721 lines         █████████████████████████   100.00 % 
+Github-Copilot           6,619 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.65% of written lines came from AI
-📄 Detailed Prompter — average 953 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 5.6% of changed lines were hand-edited
+🤖 AI-Driven — 93.67% of written lines came from AI
+📄 Detailed Prompter — average 983 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 7.83% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/10/2026 04:49:56 UTC
+ Last Updated on 11/10/2026 04:35:29 UTC
 <!--END_SECTION:waka-->
 
 ---
