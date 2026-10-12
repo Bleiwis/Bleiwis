@@ -109,9 +109,9 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 ### 📊 WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C270%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C271%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-186%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-187%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -154,47 +154,47 @@ Sunday                   18 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               5 hrs 54 mins       █████████████░░░░░░░░░░░░   53.45 % 
-Markdown                 2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-JavaScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-Gherkin                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+TypeScript               6 hrs 6 mins        █████████████░░░░░░░░░░░░   51.38 % 
+Markdown                 2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
+JavaScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Gherkin                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 🔥 Editors: 
-Antigravity IDE          11 hrs 2 mins       █████████████████████████   100.00 % 
+Antigravity IDE          11 hrs 54 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bellas-dashboard-ecommerc3 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   29.30 % 
-fin-frontend             2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
-deconohee-catalog        1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-fin-app                  1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-bosar-excel-generator    1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+bellas-dashboard-ecommerc3 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   33.03 % 
+fin-frontend             2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+deconohee-catalog        1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+fin-app                  1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+bosar-excel-generator    1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 16 mins (47.77%)
+⏱ AI Coding Time: 5 hrs 58 mins (50.22%)
 
-✍️ 6,248 lines written by AI, 422 lines written by hand (93.67% AI-written)
+✍️ 8,546 lines written by AI, 422 lines written by hand (95.29% AI-written)
 
-🔤 2,578,433 Input Tokens, 8,958 Output Tokens
+🔤 2,707,076 Input Tokens, 9,278 Output Tokens
 
-💵 $7.87 Estimated AI Cost This Week
+💵 $8.26 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 190 AI Prompts
+🧠 16 AI Sessions, 197 AI Prompts
 
-Github-Copilot           6,619 lines         █████████████████████████   100.00 % 
+Github-Copilot           8,917 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.67% of written lines came from AI
+🤖 AI-Driven — 95.29% of written lines came from AI
 📄 Detailed Prompter — average 983 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 7.83% of changed lines were hand-edited
+🚀 High AI Trust — 5.93% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/10/2026 04:35:29 UTC
+ Last Updated on 12/10/2026 04:50:48 UTC
 <!--END_SECTION:waka-->
 
 ---
