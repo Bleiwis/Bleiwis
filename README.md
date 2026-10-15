@@ -154,47 +154,47 @@ Sunday                   18 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               4 hrs 22 mins       █████████████░░░░░░░░░░░░   50.18 % 
-Markdown                 2 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
-Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-CSS                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+TypeScript               3 hrs 56 mins       ████████████░░░░░░░░░░░░░   47.01 % 
+Markdown                 2 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
+JavaScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+CSS                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🔥 Editors: 
-Antigravity IDE          8 hrs 43 mins       █████████████████████████   100.00 % 
+Antigravity IDE          8 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bellas-dashboard-ecommerc3 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   36.17 % 
-fin-frontend             2 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   30.70 % 
-bosar-excel-generator    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-fin-app                  33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-deconohee-catalog        26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+bellas-dashboard-ecommerc3 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   39.26 % 
+fin-frontend             2 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   31.90 % 
+bosar-excel-generator    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+fin-app                  33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+bosar-catalogacion-api   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 45 mins (43.07%)
+⏱ AI Coding Time: 3 hrs 54 mins (46.59%)
 
-✍️ 5,787 lines written by AI, 405 lines written by hand (93.46% AI-written)
+✍️ 4,509 lines written by AI, 402 lines written by hand (91.81% AI-written)
 
-🔤 1,638,970 Input Tokens, 6,443 Output Tokens
+🔤 1,728,008 Input Tokens, 6,702 Output Tokens
 
-💵 $5.01 Estimated AI Cost This Week
+💵 $5.28 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 151 AI Prompts
+🧠 9 AI Sessions, 55 AI Prompts
 
-Github-Copilot           5,918 lines         █████████████████████████   100.00 % 
+Github-Copilot           4,601 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.46% of written lines came from AI
-📄 Detailed Prompter — average 1,020 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 8.4% of changed lines were hand-edited
+🤖 AI-Driven — 91.81% of written lines came from AI
+📝 Concise Prompter — average 390 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 10.45% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/10/2026 03:57:11 UTC
+ Last Updated on 15/10/2026 03:39:10 UTC
 <!--END_SECTION:waka-->
 
 ---
