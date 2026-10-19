@@ -109,9 +109,9 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 ### 📊 WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C277%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C278%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-193%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-195%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -154,49 +154,49 @@ Sunday                   18 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-Markdown                 2 hrs 19 mins       ███████████░░░░░░░░░░░░░░   43.09 % 
-TypeScript               2 hrs 1 min         █████████░░░░░░░░░░░░░░░░   37.48 % 
-JavaScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Markdown                 1 hr 48 mins        ██████████░░░░░░░░░░░░░░░   40.11 % 
+TypeScript               1 hr 46 mins        ██████████░░░░░░░░░░░░░░░   39.31 % 
+JavaScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 🔥 Editors: 
-Antigravity IDE          3 hrs 33 mins       ████████████████░░░░░░░░░   65.89 % 
-Copilot CLI              1 hr 50 mins        █████████░░░░░░░░░░░░░░░░   34.11 % 
+Antigravity IDE          2 hrs 39 mins       ███████████████░░░░░░░░░░   59.05 % 
+Copilot CLI              1 hr 50 mins        ██████████░░░░░░░░░░░░░░░   40.95 % 
 
 🐱‍💻 Projects: 
-csc-ticket-hub           2 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   37.77 % 
-market-analyzer          1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
-bellas-dashboard-ecommerc1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
-acuerdos-comerciales-fron19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-bosar-regional-api       13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+csc-ticket-hub           2 hrs 2 mins        ███████████░░░░░░░░░░░░░░   45.35 % 
+market-analyzer          1 hr 16 mins        ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+bellas-dashboard-ecommerc31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+acuerdos-comerciales-fron19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+bosar-regional-api       13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 31 mins (83.61%)
+⏱ AI Coding Time: 3 hrs 46 mins (83.79%)
 
-✍️ 5,362 lines written by AI, 364 lines written by hand (93.64% AI-written)
+✍️ 3,064 lines written by AI, 364 lines written by hand (89.38% AI-written)
 
-🔤 3,638,940 Input Tokens, 572,841 Output Tokens
+🔤 3,510,297 Input Tokens, 572,521 Output Tokens
 
-💵 $11.60 Estimated AI Cost This Week
+💵 $11.21 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 48 AI Prompts
+🧠 7 AI Sessions, 40 AI Prompts
 
-Github-Copilot           4,190 lines         ███████████████████░░░░░░   77.71 % 
-GPT                      1,202 lines         ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
+Github-Copilot           1,892 lines         ███████████████░░░░░░░░░░   61.15 % 
+GPT                      1,202 lines         ██████████░░░░░░░░░░░░░░░   38.85 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.64% of written lines came from AI
-📄 Detailed Prompter — average 833 characters per prompt
+🤖 AI-Driven — 89.38% of written lines came from AI
+📄 Detailed Prompter — average 821 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 6.41% of changed lines were hand-edited
+🚀 High AI Trust — 10.66% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/10/2026 03:31:02 UTC
+ Last Updated on 19/10/2026 03:42:11 UTC
 <!--END_SECTION:waka-->
 
 ---
