@@ -154,49 +154,49 @@ Sunday                   18 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-Markdown                 1 hr 48 mins        ██████████░░░░░░░░░░░░░░░   40.11 % 
-TypeScript               1 hr 46 mins        ██████████░░░░░░░░░░░░░░░   39.31 % 
-JavaScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+TypeScript               2 hrs 28 mins       ███████████░░░░░░░░░░░░░░   42.32 % 
+Markdown                 1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   32.06 % 
+Bash                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+JavaScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 39 mins       ███████████████░░░░░░░░░░   59.05 % 
-Copilot CLI              1 hr 50 mins        ██████████░░░░░░░░░░░░░░░   40.95 % 
+Antigravity IDE          3 hrs 13 mins       ██████████████░░░░░░░░░░░   55.04 % 
+Copilot CLI              2 hrs 38 mins       ███████████░░░░░░░░░░░░░░   44.96 % 
 
 🐱‍💻 Projects: 
-csc-ticket-hub           2 hrs 2 mins        ███████████░░░░░░░░░░░░░░   45.35 % 
-market-analyzer          1 hr 16 mins        ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-bellas-dashboard-ecommerc31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-acuerdos-comerciales-fron19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-bosar-regional-api       13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+csc-ticket-hub           2 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   34.83 % 
+market-analyzer          1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   30.48 % 
+aplication-copilot-backen49 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+bellas-dashboard-ecommerc31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+acuerdos-comerciales-fron19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 46 mins (83.79%)
+⏱ AI Coding Time: 4 hrs 37 mins (78.86%)
 
-✍️ 3,064 lines written by AI, 364 lines written by hand (89.38% AI-written)
+✍️ 3,192 lines written by AI, 371 lines written by hand (89.59% AI-written)
 
-🔤 3,510,297 Input Tokens, 572,521 Output Tokens
+🔤 3,545,618 Input Tokens, 572,867 Output Tokens
 
-💵 $11.21 Estimated AI Cost This Week
+💵 $11.32 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 40 AI Prompts
+🧠 9 AI Sessions, 42 AI Prompts
 
-Github-Copilot           1,892 lines         ███████████████░░░░░░░░░░   61.15 % 
-GPT                      1,202 lines         ██████████░░░░░░░░░░░░░░░   38.85 % 
+Github-Copilot           1,892 lines         ███████████████░░░░░░░░░░   58.72 % 
+GPT                      1,330 lines         ██████████░░░░░░░░░░░░░░░   41.28 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.38% of written lines came from AI
-📄 Detailed Prompter — average 821 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 10.66% of changed lines were hand-edited
+🤖 AI-Driven — 89.59% of written lines came from AI
+📄 Detailed Prompter — average 784 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 10.55% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/10/2026 03:52:57 UTC
+ Last Updated on 21/10/2026 03:43:19 UTC
 <!--END_SECTION:waka-->
 
 ---
