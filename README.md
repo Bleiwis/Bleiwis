@@ -109,9 +109,9 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 ### 📊 WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C280%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C280%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-195%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-195%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -154,51 +154,51 @@ Sunday                   18 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               3 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   37.98 % 
-Markdown                 2 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   31.48 % 
-JavaScript               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-Bash                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Markdown                 3 hrs 40 mins       ███████████░░░░░░░░░░░░░░   44.43 % 
+TypeScript               3 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   38.32 % 
+Bash                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 
 🔥 Editors: 
-Copilot CLI              5 hrs 53 mins       ████████████████░░░░░░░░░   63.25 % 
-Antigravity IDE          3 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   36.46 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Copilot CLI              4 hrs 59 mins       ███████████████░░░░░░░░░░   60.46 % 
+Antigravity IDE          3 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   37.66 % 
+VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 🐱‍💻 Projects: 
-csc-ticket-hub           3 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   32.80 % 
-acuerdos-comerciales-fron2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
-market-analyzer          1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-aplication-copilot-backen49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-bosar-regional-api       32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+csc-ticket-hub           2 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   26.22 % 
+csc-agente-hub           1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+market-analyzer          1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+aplication-copilot-backen49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+csc-agente-backend       25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 2 mins (86.25%)
+⏱ AI Coding Time: 6 hrs 58 mins (84.48%)
 
-✍️ 5,488 lines written by AI, 371 lines written by hand (93.67% AI-written)
+✍️ 5,373 lines written by AI, 372 lines written by hand (93.52% AI-written)
 
-🔤 4,050,543 Input Tokens, 599,607 Output Tokens
+🔤 6,602,988 Input Tokens, 1,126,370 Output Tokens
 
-💵 $12.46 Estimated AI Cost This Week
+💵 $44.94 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 64 AI Prompts
+🧠 16 AI Sessions, 49 AI Prompts
 
-GPT                      4,505 lines         ██████████████████░░░░░░░   70.24 % 
-Github-Copilot           1,763 lines         ███████░░░░░░░░░░░░░░░░░░   27.49 % 
-Antigravityide           146 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+GPT                      3,451 lines         ████████████████░░░░░░░░░   63.37 % 
+Github-Copilot           1,763 lines         ████████░░░░░░░░░░░░░░░░░   32.37 % 
+Antigravityide           232 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.67% of written lines came from AI
-📄 Detailed Prompter — average 613 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 5.59% of changed lines were hand-edited
+🤖 AI-Driven — 93.52% of written lines came from AI
+📄 Detailed Prompter — average 716 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 6.54% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/10/2026 03:43:08 UTC
+ Last Updated on 23/10/2026 03:47:35 UTC
 <!--END_SECTION:waka-->
 
 ---
