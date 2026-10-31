@@ -109,7 +109,7 @@ Me enfoco en mantener mis habilidades actualizadas y explorar tecnologías emerg
 ### 📊 WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C285%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C287%20hrs%202%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-198%20hrs%2033%20mins-blue?style=flat)
 
@@ -154,48 +154,48 @@ Sunday                   18 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               2 hrs 4 mins        ██████████████████░░░░░░░   70.13 % 
-Bash                     38 mins             █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
-MDX                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+TypeScript               2 hrs 35 mins       ████████████████░░░░░░░░░   65.90 % 
+Bash                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+CSV                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+MDX                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 52 mins       ████████████████████████░   97.07 % 
-Copilot CLI              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Antigravity IDE          3 hrs 55 mins       █████████████████████████   100.00 % 
+Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-acuerdos-comerciales-fron49 mins             ███████░░░░░░░░░░░░░░░░░░   28.02 % 
-csc-agent-front          47 mins             ███████░░░░░░░░░░░░░░░░░░   26.81 % 
-market-analyzer          27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-acuerdos-comerciales-api 23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-csc-agent-back           18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+csc-agent-front          53 mins             ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+acuerdos-comerciales-fron49 mins             █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+bosar-regional-api       47 mins             █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+acuerdos-comerciales-api 23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+market-analyzer          15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (5.18%)
+⏱ AI Coding Time: 4 mins (1.7%)
 
-✍️ 0 lines written by AI, 565 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 583 lines written by hand (0.0% AI-written)
 
 🔤 1,850,422 Input Tokens, 486,558 Output Tokens
 
 💵 $15.33 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 2 AI Prompts
+🧠 3 AI Sessions, 0 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 161 characters per prompt
+📝 Concise Prompter — average 0 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/10/2026 04:48:49 UTC
+ Last Updated on 31/10/2026 04:32:47 UTC
 <!--END_SECTION:waka-->
 
 ---
